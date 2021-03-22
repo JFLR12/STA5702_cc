@@ -1,0 +1,2 @@
+# STA5702_cc
+I wished to contribute to the community by translating the following paper into Chinese.this paper was post in Harvard Business Review the titil is "Visualizations That Really Work".This paper has been a useful resource for me, and I hope its translation would be helpful for our classmates as well. The original paper could be found on https://hbr.org/2016/06/visualizations-that-really-work
